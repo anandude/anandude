@@ -22,7 +22,7 @@ I'm a passionate developer comfortable working with both frontend and backend te
 
 ### 🏋️ Interests & Hobbies
 Outside of coding:
-- 🏋️‍♂️ **Bodybuilding** and **Muay Thai** martial arts keep me active.
+- 🏋️‍♂️ **Bodybuilding** and **Muay Thai** keep me active.
 - 🎶 **Music Production** is my creative outlet.
 - 🎨 I’m also an **artist** and occasionally take on commissioned work.
 
