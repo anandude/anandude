@@ -2,12 +2,12 @@
 
 ### Full Stack Web Developer | Web3 Enthusiast | Data Science Student at IIT Madras
 
-I'm a passionate developer comfortable working with both frontend and backend technologies, especially the **MERN Stack**. Currently, I'm diving deeper into **Web3** and **Data Science**, with a strong foundation through my ongoing Data Science program at IIT Madras. Here's a bit more about me:
+I'm a passionate developer comfortable working with both frontend and backend technologies, especially the **MERN Stack**. Currently, I'm diving deeper into **Data Science**, with a strong foundation through my ongoing Data Science program at IIT Madras. Here's a bit more about me:
 
 ---
 
 ### 👨‍💻 About Me
-- 🔹 **Tech Stack**: I primarily work with the **MERN Stack** (MongoDB, Express.js, React, Node.js), and also use **PHP** and **Postgres** for specific projects.
+- 🔹 **Tech Stack**: I primarily work with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 - 🎓 **Current Focus**: Alongside my web projects, I’m enhancing my understanding of **Data Science concepts**, **mathematics**, and exploring **Web3 technologies**.
 - 💻 **Projects**: I’m currently building a website for a local school and handling a few freelance projects to keep things interesting!
 
